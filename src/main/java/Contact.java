@@ -1,4 +1,4 @@
-public class Task {
+public class Contact {
 
   // public static List<Task> all() {
   //   String sql = "SELECT id, description FROM tasks";
